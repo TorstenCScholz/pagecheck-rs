@@ -1,0 +1,9 @@
+[package]
+name = "pagecheck-rs"
+version = "0.1.0"
+authors = ["Torsten <doaschdn@googlemail.com>"]
+
+[dependencies]
+reqwest = "0.3.0"
+select = { git = "https://github.com/utkarshkukreti/select.rs.git" }
+clap = "2.22.2"
