@@ -7,3 +7,6 @@ authors = ["Torsten <doaschdn@googlemail.com>"]
 reqwest = "0.3.0"
 select = { git = "https://github.com/utkarshkukreti/select.rs.git" }
 clap = "2.22.2"
+error-chain = "0.10.0"
+lettre = "0.6"
+dotenv = { git = "https://github.com/slapresta/rust-dotenv.git" }
